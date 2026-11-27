@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal Design</title>
+    <link rel="stylesheet" href="../css/main_buscar.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="logo" onclick="window.location.href='site_principal.html'" style="cursor: pointer;">
+            <span class="dot"></span> BIb jogos
+        </div>
+    </nav>
+
+    <section id="area-busca">
+        <div class="container-busca">
+            <input type="text" id="input-pesquisa" placeholder="Digite o nome do jogo..." onkeyup="filtrarJogos()">
+            <button onclick="carregarJogo()">Buscar</button>
+            <ul id="lista-sugestoes" class="oculto"></ul>
+        </div>
+    </section>
+
+    <div id="conteudo-jogo" class="oculto">
+        <section id="capa" class="sessao-site">
+            <h2 id="titulo-jogo">Nome do Jogo</h2>
+            <img id="img-capa" src="" alt="Capa do Jogo" class="imagem-capa">
+        </section>
+
+        <section id="sinopse" class="sessao-site">
+            <h2>Sobre o Jogo</h2>
+            <div id="tags-jogo" class="tags-categoria">
+                <span>Categorias</span>
+            </div>
+            <p id="texto-sinopse" class="texto-sinopse">
+                sinopse
+            </p>
+        </section>
+
+        <section id="precos" class="sessao-site">
+            <h2>Comparar Preços</h2>
+            <button class="atualiza_preco" onclick="carregarJogo()">Atualizar preços</button>
+            <div class="plataformas-container">
+                <div class="plataforma-card">
+                    <img src="../Logos_empresas_Bib/Xbox_logo.jfif" alt="Logo Xbox">
+                    <p class="preco-label">Xbox</p>
+                    <p id="preco-xbox" class="preco-valor">R$ 00,00</p>
+                </div>
+
+                <div class="plataforma-card">
+                    <img src="../Logos_empresas_Bib/Playstation_logo.jfif" alt="Logo PlayStation">
+                    <p class="preco-label">PlayStation</p>
+                    <p id="preco-playstation" class="preco-valor">R$ 00,00</p>
+                </div>
+
+                <div class="plataforma-card">
+                    <img src="../Logos_empresas_Bib/Steam_logo.png" alt="Logo Steam">
+                    <p class="preco-label">Steam</p>
+                    <p id="preco-steam" class="preco-valor">R$ 00,00</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="reviews" class="sessao-site">
+            <h2>Reviews dos Usuários</h2>
+            <div class="review-box">
+                <p class="nota">Nota: 9.5 / 10</p>
+                <p>"Gráficos excelentes e jogabilidade muito fluida!" - <em>Usuário123</em></p>
+            </div>
+        </section>
+    </div>
+
+    <script src="../Scripts_Bib/buscar_jogos.js"></script>
+</body>
+</html>

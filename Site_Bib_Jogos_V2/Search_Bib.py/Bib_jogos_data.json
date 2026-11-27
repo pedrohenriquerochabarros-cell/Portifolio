@@ -1,0 +1,90 @@
+{
+    "jogos": [
+        {
+            "id": "gta_6",
+            "nome": "Grand Theft Auto VI",
+            "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+            "tags": "<span>Ação e aventura</span> | <span>Mundo aberto</span>",
+            "sinopse": "Grand Theft Auto VI acompanha a trajetória do casal de criminosos Lucia Caminos e Jason Duval no estado fictício de Leonida, uma região inspirada na Flórida que tem a vibrante Vice City como epicentro. Em uma narrativa inspirada na dinâmica de Bonnie e Clyde, os dois começam por baixo em busca de dinheiro fácil, mas acabam no centro de uma grande conspiração criminosa que toma conta de todo o estado depois que um golpe planejado dá errado. Para sobreviver e escapar tanto da polícia quanto de facções locais perigosas, Lucia e Jason precisam confiar um no outro enquanto exploram o maior mapa já criado pela Rockstar Games, que mistura praias, pântanos e a vida noturna intensa da metrópole.",
+            "image": "",
+            "site": {
+                "xbox": "https://www.xbox.com/pt-BR/games/store/grand-theft-auto-vi/9np019g7nzxt",
+                "playstation": "https://www.playstation.com/pt-br/games/grand-theft-auto-vi/?srsltid=AY6E962vTfuOOGjlnmknpNUj2Zuvg3NemBhOvCsLtw3qx83WntnwO4uH",
+                "steam": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
+            },
+            "precos": {
+                "xbox": "R$449,90",
+                "playstation": "R$549,90",
+                "steam": "R$149,90"
+            }
+        },
+        {
+            "id": "halo",
+            "nome": "Halo: Combat Evolved",
+            "capa": "https://store-images.s-microsoft.com/image/apps.55711.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.7d3e0d82-8972-47d4-956b-79be525dcb3c?q=90&w=480&h=270",
+            "tags": "<span>Tiro</span> | <span>Ficção Científica</span>",
+            "sinopse": "Halo: Campaign Evolved é um remake completo da campanha do primeiro jogo da franquia, reconstruído do zero na Unreal Engine 5 para celebrar os 25 anos da série. A história acompanha o supersoldado Master Chief e sua inteligência artificial Cortana após um pouso forçado em um misterioso mundo em forma de anel conhecido como Halo. Enquanto lutam contra as forças alienígenas da aliança Covenant para resgatar sobreviventes da nave Pillar of Autumn, a dupla descobre um segredo mortal escondido na estrutura que ameaça destruir toda a vida na galáxia. Além de modernizar os gráficos, a jogabilidade e as cenas cinematográficas das dez missões originais, o jogo adiciona três fases inéditas que funcionam como prólogo ao lado do Sargento Johnson e oferece modo cooperativo para até quatro jogadores.",
+            "site": {
+                "xbox": "https://www.xbox.com/pt-br/games/store/halo-campaign-evolved-standard-edition/9n6j4rnfpkkl",
+                "playstation": "https://www.playstation.com/pt-br/games/halo-campaign-evolved/?srsltid=AY6E962cpsaZP1L1dKLSO1TuTlLPEMQ9lMHsH6YgCBlDLe8wh2996lJe",
+                "steam": "https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/"
+            },
+            "precos": {
+                "xbox": "R$249,00",
+                "playstation": "R$249,00",
+                "steam": "R$249,00"
+            }
+        },
+        {
+            "id": "cyberpunk_2077",
+            "nome": "Cyberpunk 2077",
+            "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
+            "tags": "<span>Tiro</span> | <span>Ficção Científica</span>",
+            "sinopse": "Em Cyberpunk 2077, você assume o papel de V, um mercenário fora da lei em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Após um assalto dar terrivelmente errado, V acaba com um protótipo de biochip implantado na mente contendo a consciência digital de Johnny Silverhand, um lendário roqueiro rebelde. Enquanto o chip reescreve lentamente sua personalidade, você precisa explorar os distritos perigosos da cidade, firmar alianças arriscadas e buscar uma forma de sobreviver em um mundo controlado por megacorporações.",
+            "site": {
+                "xbox": "https://www.xbox.com/pt-BR/games/store/cyberpunk-2077/bx3m8l83bbrw",
+                "playstation": "https://store.playstation.com/pt-br/product/UP4497-PPSA03974_00-0000000000000CP1",
+                "steam": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+            },
+            "precos": {
+                "xbox": "R$74,70",
+                "playstation": "Incluído",
+                "steam": "R$59,99"
+            }
+        },
+        {
+            "id": "forza_horizon_6",
+            "nome": "Forza Horizon 6",
+            "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+            "tags": "<span>Corrida</span> | <span>Mundo Aberto</span>",
+            "sinopse": "Em Forza Horizon 6, o maior festival automobilístico do mundo desembarca no Japão, unindo a cultura vibrante dos carros de rua às estradas sinuosas das montanhas e às avenidas iluminadas por neon de Tóquio. Assuma o volante de centenas de veículos licenciados, explore um mapa dinâmico com estações do ano que transformam a dirigibilidade e construa sua reputação vencendo corridas de rua, eventos de drift e desafios off-road. Personalize cada detalhe mecânico e visual dos seus carros para dominar o asfalto e a terra em um mundo aberto compartilhado.",
+            "site": {
+                "xbox": "https://www.xbox.com/pt-br/games/store/forza-horizon-6/9nr1r1xwlcnb",
+                "playstation": "https://store.playstation.com/pt-br/product/UP6312-PPSA32152_00-0081086881064115",
+                "steam": "https://store.steampowered.com/app/2483190/Forza_Horizon_6/"
+            },
+            "precos": {
+                "xbox": "R$224,25",
+                "playstation": "R$299,00",
+                "steam": "R$1.177,50"
+            }
+        },
+        {
+            "id": "the_witcher_3",
+            "nome": "The Witcher 3: Wild Hunt — Remastered",
+            "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b5b1ba5061b8a992cc69ac58b4245434edb4296/header.jpg?t=1793900434",
+            "tags": "<span>Ação e Aventura</span> | <span>Mundo Aberto</span>",
+            "sinopse": "Em The Witcher 3: Wild Hunt, você assume o papel de Geralt de Rívia, um caçador de monstros mercenário em um mundo aberto de fantasia sombria devastado pela guerra. Sua missão mais importante é encontrar Ciri, a Criança da Profecia — uma arma viva capaz de alterar o destino do mundo — enquanto ela é perseguida pela Caçada Selvagem, uma cavalgada espectral de outro reino. Explore cidades mercantes, ilhas piratas e passagens montanhosas perigosas, tome decisões moralmente complexas com consequências duradouras e domine espadas, sinais mágicos e poções para sobreviver.",
+            "site": {
+                "xbox": "https://www.xbox.com/pt-br/games/store/the-witcher-3-wild-hunt-remastered/c261457lcnmj",
+                "playstation": "https://store.playstation.com/pt-br/product/UP4497-PPSA03972_00-00000000000GOTY7",
+                "steam": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+            },
+            "precos": {
+                "xbox": "R$63,99",
+                "playstation": "R$79,80",
+                "steam": "R$19,83"
+            }
+        }
+    ]
+}
